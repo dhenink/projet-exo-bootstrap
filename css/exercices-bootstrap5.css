@@ -1,0 +1,16 @@
+button {
+	margin: 5px;
+	position: relative;
+	left: 350px;
+}
+
+.container {
+	margin-bottom: 10px;
+	background-color: lightgrey;
+	border-radius: 10px;
+}
+
+.checkbox {
+	position: relative;
+	left: 350px;
+}
