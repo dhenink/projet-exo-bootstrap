@@ -1,0 +1,47 @@
+.container-nav {
+	background-color: #3b5998;
+	background-image: linear-gradient(#4e69a2, #3b5998 50%);
+	border-bottom: 1px solid #133783;
+	height: 82px;
+	min-width: 980px;
+}
+header {
+	color: white;
+}
+
+section {
+	height: 610px;
+	background: linear-gradient(white, #D3D8E8);
+}
+
+h1 {
+	margin-left: 35px;
+}
+
+.form-group {
+	margin-top: 10px;
+}
+
+input {
+	height: 25px;
+}
+
+.btn-xs {
+	margin-top: 35px;
+}
+
+h4 {
+	font-weight: bold;
+	color: #0e385f;
+	font-size: 18px;
+	margin-top: 25px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 19px;
+}
