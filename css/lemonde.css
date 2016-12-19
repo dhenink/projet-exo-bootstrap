@@ -1,0 +1,73 @@
+.container-haut-nav {
+	background: linear-gradient(#2d3841, #010c16);
+	height: 27px;
+	line-height: 25px;
+}
+
+.list-inline a {
+	font-size: 11px;
+	color: white;
+	text-decoration: none;
+}
+
+.list-inline li {
+	display: block;
+}
+
+li.bord {
+	border-left: 1px solid #626a72;
+	border-right: 1px solid #16212c;
+	float: left;
+}
+
+.right.abonnement {
+	background-color: #FFC600;
+	color: black;
+	font-weight: bold;
+	margin: 0px 0px 0px -6px;
+	padding: 7px 10px 5px 8px;
+}
+
+.vide {
+	width: 140px;
+}
+
+.btn-link {
+	color: white;
+	text-decoration: none;
+}
+
+.btn-link:focus {
+	color: white;
+	text-decoration: none;
+}
+
+
+.btn-link:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.bar-search {
+	position: relative;
+	left: -20px;
+	top: 5px;
+}
+
+.search {
+	height: 27px;
+	width: 210px;
+}
+
+.loupe {
+	position: absolute;
+	left: 190px;
+	top: 7px;
+}
+
+.social {
+	position: relative;
+	left: 40px;
+	top: 7px;
+}
+
