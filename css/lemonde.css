@@ -1,3 +1,7 @@
+header {
+    height: 251.5px;
+}
+
 .container-haut-nav {
 	background: linear-gradient(#2d3841, #010c16);
 	height: 27px;
@@ -29,7 +33,7 @@ li.bord {
 }
 
 .vide {
-	width: 140px;
+	width: 138px;
 }
 
 .btn-link {
@@ -67,7 +71,286 @@ li.bord {
 
 .social {
 	position: relative;
-	left: 40px;
-	top: 7px;
+	left: 42px;
+	top: 5px;
 }
 
+i {
+	color: #999999;
+	margin-left: 15px;
+	vertical-align: super;
+}
+
+a i:hover {
+	text-decoration: none;
+	color: black;
+}
+
+hr {
+	height: 1px;
+	background-color: #D2D6DB;
+}
+
+.logo-lemonde {
+	display: block;
+	width: 265px;
+	height: 75px;
+}
+
+.edition {
+	display: inline-block;
+	font-size: 11px;
+	color: #999999;
+	position: relative;
+	left: 22px;
+	top: -10px;
+}
+
+.mise-a-jour {
+	display: inline-block;
+	font-size: 11px;
+	color: #999999;
+	position: relative;
+	left: 30px;
+	top: -10px;
+}
+
+.fa.fa-angle-down {
+	vertical-align: baseline;
+	margin-left: 8px;
+}
+
+.barre-accueil {
+	border-top: 3px solid #D2D6DB;
+	border-bottom: 1px solid #D2D6DB;
+	height: 40px;
+}
+
+.accueil {
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+	display: inline;
+	vertical-align: baseline;
+	position: relative;
+	top: 2px;
+}
+
+ul.accueil {
+	padding-left: 37px;
+}
+
+.accueil.fa.fa-home {
+	font-weight: normal;
+}
+
+i.accueil.fa.fa-home:hover {
+	color: white;
+}
+
+img.mlemonde {
+	height: 18px;
+	width: 18px;
+	vertical-align: sub;
+}
+
+a.accueil:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.accueil.home {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 11px 12px 0px;
+	border-top: 3px solid #8B9197;
+}
+
+.accueil.home:hover {
+	background-color: #2E3942;
+}
+
+.accueil.international {
+	border-left: 1px solid #D2D6DB;
+	border-top: 3px solid #0386C3;
+	padding: 9px 2px 12px 5px;
+}
+
+.accueil.international:hover {
+	background-color: #0386C3;
+}
+
+.accueil.politique {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #1F0D67;
+}
+
+.accueil.politique:hover {
+	background-color: #1F0D67;
+}
+
+.accueil.societe {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #D50303;
+}
+
+.accueil.societe:hover {
+	background-color: #D50303;
+}
+
+.accueil.eco {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #FE2F2F;
+}
+
+.accueil.eco:hover {
+	background-color: #FE2F2F;
+}
+
+.accueil.culture {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #F20559;
+}
+
+.accueil.culture:hover {
+	background-color: #F20559;
+}
+
+.accueil.idees {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #2E3942;
+}
+
+.accueil.idees:hover {
+	background-color: #2E3942;
+}
+
+.accueil.planete {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #30932E;
+}
+
+.accueil.planete:hover {
+	background-color: #30932E;
+}
+
+.accueil.sport {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #6FAA12;
+}
+
+.accueil.sport:hover {
+	background-color: #6FAA12;
+}
+
+.accueil.sciences {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #0CB4AE;
+}
+
+.accueil.sciences:hover {
+	background-color: #0CB4AE;
+}
+
+.accueil.pixels {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #06B586;
+}
+
+.accueil.pixels:hover {
+	background-color: #06B586;
+}
+
+.accueil.campus {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #FF6E17;
+}
+
+.accueil.campus:hover {
+	background-color: #FF6E17;
+}
+
+.accueil.mag {
+	border-left: 1px solid #D2D6DB;
+	padding: 9px 2px 12px 5px;
+	border-top: 3px solid #2E3942;
+}
+
+.mag a:hover {
+	color: black;
+}
+
+.accueil.abonnes {
+	background-color: #FFC600;
+	padding: 9px 37px 12px 37px;
+	border-top: 3px solid #CCAA00;
+}
+
+.accueil.abonnes:hover {
+	background-color: #FFD233;
+}
+
+.abonnes a:hover {
+	color: #756205
+}
+
+section {
+	background-color: #E9EDF0;
+	height: 1000px;
+}
+
+.row-menu {
+	background: linear-gradient(#2d3841, #010c16);
+	height: 38px;
+	line-height: 38px;
+	position: relative;
+	top: 20px;
+	left: -15px;
+	width: 1009px;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.menu.a {
+	background-color: #D50303;
+	padding: 10px 15px 11px;
+	position: relative;
+	left: -43px;
+	
+}
+
+.menu {
+	display: inline;
+	color: white;
+}
+
+.menu a {
+	text-decoration: none;
+	color: white;
+	padding: 6px;
+	position: relative;
+	left: -30px;
+}
+
+.contenu {
+	position: absolute;
+	left: -3px;
+	top: 58px;
+	right: 5px;
+	background-color: white;
+}
+
+h1 {
+	font-size: 28px;
+	color: #003366;
+	font-weight: bold;
+}

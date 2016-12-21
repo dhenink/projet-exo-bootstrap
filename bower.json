@@ -1,0 +1,21 @@
+{
+  "name": "exo_bootstrap",
+  "homepage": "https://github.com/dhenink/projet-exo-bootstrap",
+  "authors": [
+    "kevin dhenin <dhenin.k@laposte.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "unlicensed",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
