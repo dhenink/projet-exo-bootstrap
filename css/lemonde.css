@@ -305,7 +305,7 @@ a.accueil:hover {
 
 section {
 	background-color: #E9EDF0;
-	height: 1000px;
+	height: 2000px;
 }
 
 .row-menu {
@@ -351,6 +351,20 @@ section {
 
 h1 {
 	font-size: 28px;
+	color: #003366;
+	font-weight: bold;
+}
+
+p {
+	font-size: 1.3rem;
+}
+
+.lien-double {
+	border-bottom: 4px solid #D2D6DB
+}
+
+h4 {
+	font-size: 1.7rem;
 	color: #003366;
 	font-weight: bold;
 }
